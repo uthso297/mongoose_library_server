@@ -50,9 +50,9 @@ cd mongoose_library_server
 # Install dependencies
 npm install
 
-# Create a .env file and add your MongoDB URI
+# Create a .env file 
 cp .env.example .env
-# Edit .env to include: MONGODB_URI=<your_connection_string>
+# Edit .env to include your DB_USER & DB_PASS credentials
 
 # Run the development server
 npm run dev
