@@ -1,0 +1,182 @@
+[
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "isbn": "9780553380163",
+    "description": "Explores the nature of time and the universe.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "The Elegant Universe",
+    "author": "Brian Greene",
+    "genre": "SCIENCE",
+    "isbn": "9780393338102",
+    "description": "Examines string theory and the quest for a unified theory.",
+    "copies": 6,
+    "available": true
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "SCIENCE",
+    "isbn": "9780345539434",
+    "description": "A journey through space, time, and the universe.",
+    "copies": 5,
+    "available": true
+  },
+  {
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "genre": "SCIENCE",
+    "isbn": "9780393609394",
+    "description": "A quick and accessible overview of astrophysics.",
+    "copies": 7,
+    "available": true
+  },
+  {
+    "title": "The Universe in a Nutshell",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "isbn": "9780553802023",
+    "description": "A deeper look into the concepts from A Brief History of Time.",
+    "copies": 3,
+    "available": true
+  },
+  {
+    "title": "Parallel Worlds",
+    "author": "Michio Kaku",
+    "genre": "SCIENCE",
+    "isbn": "9781400033720",
+    "description": "Discusses the multiverse and alternate realities.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "The Grand Design",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "isbn": "9780553384666",
+    "description": "Explores the laws of the universe and why it exists.",
+    "copies": 6,
+    "available": true
+  },
+  {
+    "title": "Black Holes and Baby Universes",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "isbn": "9780553374117",
+    "description": "Essays on black holes, cosmology, and Hawking's personal reflections.",
+    "copies": 5,
+    "available": true
+  },
+  {
+    "title": "The Fabric of the Cosmos",
+    "author": "Brian Greene",
+    "genre": "SCIENCE",
+    "isbn": "9780375727207",
+    "description": "Explores space, time, and the nature of reality.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "Just Six Numbers",
+    "author": "Martin Rees",
+    "genre": "SCIENCE",
+    "isbn": "9780465036738",
+    "description": "The six numbers that define the structure of the universe.",
+    "copies": 5,
+    "available": true
+  },
+  {
+    "title": "Why Does E=mc²?",
+    "author": "Brian Cox and Jeff Forshaw",
+    "genre": "SCIENCE",
+    "isbn": "9780306817588",
+    "description": "An accessible explanation of Einstein’s famous equation.",
+    "copies": 3,
+    "available": true
+  },
+  {
+    "title": "The Order of Time",
+    "author": "Carlo Rovelli",
+    "genre": "SCIENCE",
+    "isbn": "9780735216105",
+    "description": "A philosophical and scientific look at the nature of time.",
+    "copies": 6,
+    "available": true
+  },
+  {
+    "title": "Seven Brief Lessons on Physics",
+    "author": "Carlo Rovelli",
+    "genre": "SCIENCE",
+    "isbn": "9780399184413",
+    "description": "A concise guide to modern physics and the cosmos.",
+    "copies": 5,
+    "available": true
+  },
+  {
+    "title": "The Hidden Reality",
+    "author": "Brian Greene",
+    "genre": "SCIENCE",
+    "isbn": "9780307278128",
+    "description": "Explores different types of parallel universes.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "Physics of the Impossible",
+    "author": "Michio Kaku",
+    "genre": "SCIENCE",
+    "isbn": "9780307278821",
+    "description": "Analyzes the science behind science fiction concepts.",
+    "copies": 3,
+    "available": true
+  },
+  {
+    "title": "Until the End of Time",
+    "author": "Brian Greene",
+    "genre": "SCIENCE",
+    "isbn": "9781524763459",
+    "description": "Explores the cosmic story from the Big Bang to the end of time.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "The Beginning of Infinity",
+    "author": "David Deutsch",
+    "genre": "SCIENCE",
+    "isbn": "9780143121350",
+    "description": "Explores the reach of scientific explanations and knowledge.",
+    "copies": 5,
+    "available": true
+  },
+  {
+    "title": "Time Reborn",
+    "author": "Lee Smolin",
+    "genre": "SCIENCE",
+    "isbn": "9780544245594",
+    "description": "Challenges current ideas about time and proposes new theories.",
+    "copies": 3,
+    "available": true
+  },
+  {
+    "title": "The First Three Minutes",
+    "author": "Steven Weinberg",
+    "genre": "SCIENCE",
+    "isbn": "9780465024377",
+    "description": "Describes the first three minutes after the Big Bang.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "The Black Hole War",
+    "author": "Leonard Susskind",
+    "genre": "FANTASY",
+    "isbn": "9780316016407",
+    "description": "A debate over the nature of black holes and information loss.",
+    "copies": 6,
+    "available": true
+  }
+]
