@@ -35,6 +35,10 @@ const bookSchema = new Schema<IBook>({
     available: {
         type: Boolean,
         default: true
+    },
+    url : {
+        type: String,
+        required: true
     }
 
 },

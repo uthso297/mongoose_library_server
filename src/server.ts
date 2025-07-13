@@ -2,7 +2,6 @@ import mongoose from "mongoose";
 import app from "./app";
 const port = 5000;
 import dotenv from 'dotenv';
-
 dotenv.config();
 
 async function main() {
