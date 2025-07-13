@@ -36,6 +36,10 @@ const bookSchema = new mongoose_1.Schema({
     available: {
         type: Boolean,
         default: true
+    },
+    url: {
+        type: String,
+        required: true
     }
 }, {
     versionKey: false,
